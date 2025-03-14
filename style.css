@@ -278,7 +278,7 @@ main .left .heading .righty img {
 
 main .left .small-slide {
     height: 334px;
-    overflow: scroll;
+    overflow-y: scroll;
     /* box-shadow: inset 0px 4px 8px black; */
 }
 
