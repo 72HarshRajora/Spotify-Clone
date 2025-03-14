@@ -411,7 +411,7 @@ main .right .slider {
     background: linear-gradient(#373737 -36%, #111111 26%);
     height: 100%;
     border-radius: inherit;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 main .right .slider .heading {
